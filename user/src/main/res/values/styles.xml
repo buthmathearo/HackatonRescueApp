@@ -1,0 +1,13 @@
+<resources>
+    <style name="ButtonStyle">
+        <item name="android:layout_width">144dp</item>
+        <item name="android:layout_height">104dp</item>
+        <item name="android:drawablePadding">0dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:drawableTop">@drawable/ic_person</item>
+        <item name="android:background">@drawable/button_background_white</item>
+    </style>
+
+</resources>

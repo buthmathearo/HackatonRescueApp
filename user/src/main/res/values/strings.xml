@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">User</string>
+    <string name="warning">Warnings</string>
+    <string name="desc1">Do not play with the app if there is not any accident that required an immediate emergency</string>
+    <string name="desc2">You will be punished if your request is a false alarm.</string>
+    <string name="desc3">You will be punished if your request is a false alarm.</string>
+    <string name="request_ambulance">Request an ambulance</string>
+    <string name="people_count_label">How many people were\nwounded?</string>
+    <string name="success">SUCCESS</string>
+    <string name="ambulance_on_the_way">An ambulance is on the way\nto the location you provided.</string>
+    <string name="got_it">GOT IT</string>
+    <string name="cancel_request">CANCEL REQUEST</string>
+    <string name="looking_for_nearby_hospital">Looking for nearby hospital</string>
+</resources>

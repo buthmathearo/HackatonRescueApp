@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/red</color>
+    <color name="colorPrimaryDark">#CCC2A3</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="barley_white">#FFF2CC</color>
+    <color name="red">#CC0000</color>
+    <color name="red_dark">#A30404</color>
+    <color name="grey">#EBE9E9</color>
+    <color name="grey_transparent">#66EBE9E9</color>
+    <color name="white_dark">#F8F7F7</color>
+    <color name="green">#00CC6A</color>
+    <color name="green_light">#C0E1BE</color>
+</resources>

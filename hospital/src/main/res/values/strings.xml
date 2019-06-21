@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hospital</string>
+    <string name="request_history">REQUEST HISTORY</string>
+</resources>

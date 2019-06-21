@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "714349633886",
+    "firebase_url": "https://dmihackatonrescue.firebaseio.com",
+    "project_id": "dmihackatonrescue",
+    "storage_bucket": "dmihackatonrescue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714349633886:android:94a9e216665c0450",
+        "android_client_info": {
+          "package_name": "com.dmi.hackaton.rescue.hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714349633886-p3ppbdddrir3lte71n58kst1f21tj9hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqbmK_O8MuhcH0STX-Rg1Cl3WbjZgVfK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714349633886-p3ppbdddrir3lte71n58kst1f21tj9hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714349633886:android:74e7dce588760244",
+        "android_client_info": {
+          "package_name": "com.dmi.hackaton.rescue.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714349633886-p3ppbdddrir3lte71n58kst1f21tj9hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqbmK_O8MuhcH0STX-Rg1Cl3WbjZgVfK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714349633886-p3ppbdddrir3lte71n58kst1f21tj9hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

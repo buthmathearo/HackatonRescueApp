@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">hospital</string>
+    <string name="app_name">Rescue - Hospital</string>
     <string name="request_history">REQUEST HISTORY</string>
+    <string name="sending_response">Sending response to\nrequester</string>
+    <string name="user_id_hint">Hospital ID</string>
+    <string name="log_in">LOG IN</string>
+    <string name="new_emergency_request">NEW EMERGENCY\nREQUEST</string>
+    <string name="want_to_view_direction">WANT TO VIEW\nDIRECTION?</string>
 </resources>

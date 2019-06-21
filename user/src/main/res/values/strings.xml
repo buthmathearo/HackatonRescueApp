@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">User</string>
+    <string name="app_name">Rescue</string>
     <string name="warning">Warnings</string>
     <string name="desc1">Do not play with the app if there is not any accident that required an immediate emergency</string>
     <string name="desc2">You will be punished if your request is a false alarm.</string>
